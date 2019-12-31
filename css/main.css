@@ -85,9 +85,11 @@ body a:hover {
 }
 .top-nav-collapse {
   background-color: #2f4154;
+  opacity: 0.5
 }
 .navbar-col-show {
   background-color: #2f4154;
+  opacity: 0.5
 }
 @media (max-width: 768px) {
   .navbar {
